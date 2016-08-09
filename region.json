@@ -2,7 +2,7 @@
     "googleAnalyticsPropertyId": "28810260-22",
     "googleUrlShortenerApiKey": "AIzaSyCGRjZtPUN9LG1wG83JGUvEqHimxYjC510",
     "titleMain": { "text": "Freshwater Network", "url": "http://freshwaternetwork.org" },
-	"titleDetail": { "text": "Louisiana Freshwater Assessment", "url": "http://freshwaternetwork.org/waternews/louisiana.html" },
+	"titleDetail": { "text": "America's Great River Project", "url": "http://www.nature.org/ourinitiatives/regions/northamerica/north-america-water-mississippi-river.xml" },
     "headerLinks": [
         { "text": "The Nature Conservancy", "url": "http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/louisiana/placesweprotect/index.htm" },
         { "text": "Partners", "url": "partners.html", "popup": true },
@@ -10,10 +10,10 @@
         { "text": "Tour", "url": "javascript:;", "elementId": "help-overlay-start"}
     ],
     "initialExtent": [
-        -95.55,
-        29.04,
-        -87.49,
-        33.29
+        -102.00,
+        28.67,
+        -83.00,
+        42.84
     ],
     "basemaps": [
         { "name": "Topographic"        , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer" },
@@ -27,12 +27,6 @@
     ],
     "pluginOrder": [
         "layer_selector",
-		"sabine_app",
-		"flow_app",
-		"water_quality",
-		"feature_compare",
-		"draw_report",
-		"hydro_alteration",
 		"zoom_to",
 		"measure",
 		"legend_display",

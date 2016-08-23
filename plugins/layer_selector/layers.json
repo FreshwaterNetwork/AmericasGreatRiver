@@ -10,7 +10,9 @@
 											{ "name": "AGR_Map_Layers", "type": "dynamic", "displayName": "Base Data", "showLayers": [
 															{"id":0, "parentLayerId":-1 },
 															{"id":1, "parentLayerId":-1 },
-															{"id":2, "parentLayerId":-1 }
+															{"id":2, "parentLayerId":-1 },
+															{"id":3, "parentLayerId":-1 },
+															{"id":4, "parentLayerId":-1 }
 													]
 											}
 										]

@@ -36,11 +36,13 @@
     ],
     
     "identifyBlacklist":["OBJECTID", "OBJECTID_1", "Shape"],
-	"identifyEnabled": true,
+	"identifyEnabled": false,
     
     "colors": {
         "primary": "#457545",
-        "secondary": "#81b94d"
+        "secondary": "#81b94d",
+	"tertiary": "#333333",
+	"active": "#0096D6"
     },
 	
     "print": {
